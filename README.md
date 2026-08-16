@@ -1,4 +1,4 @@
-🇺🇸 Read this in English | 🇧🇷 [Leia em Português](#-assistente-de-cuidado-iot-sensor-de-queda-vestível)
+🇺🇸 Read this in English | 🇧🇷 [Leia em Português](README.pt-br.md)
 
 ---
 
